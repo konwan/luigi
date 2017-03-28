@@ -29,5 +29,6 @@ logging_conf_file: test/testconfig/logging.cfg
 
 #### 3.run luigi sever      
 1. python /usr/local/lib/python2.7/site-packages/luigi/server.py
-2. luigid &
+2. luigid &   
+
 check ==> http://localhost:8082/static/visualiser/index.html
